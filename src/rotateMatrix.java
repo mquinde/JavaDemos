@@ -1,7 +1,6 @@
 import java.io.*;
 
-// Given an image represented by an NXN matrix 
-// where each pixel in the image is 4 bytes, write 
+// Given an image represented by an NXN matrix, write 
 // a method to rotate the image 90 degrees
 public class rotateMatrix {
 	public static int n;
